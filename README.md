@@ -9,6 +9,9 @@
 - App 설명 : 지역을 기반으로 한 소상공인 익명 커뮤니티 플랫폼
 - ~~App Stroe Link~~ (App 출시 준비 중입니다)
 <div align="center">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542130-33a0e710-6575-4267-a1df-aa21c68ba46b.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/87888411/182267185-b36e80d5-e12b-4554-a5f4-d44af7f9a9f2.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/87888411/182522202-6b1520e4-b7b1-4a83-b275-d7804c7fb442.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/87888411/182523121-03192e09-97f9-4632-aec8-151dc5210c32.png">
@@ -49,17 +52,26 @@
 
 ### 2. 메인화면
 
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
+
 ### 3. 게시판 및 게시글 + 댓글
 
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542405-4e9f0c4e-180d-478c-b0f3-9e606bf820ee.png">
+
 ### 4. 게시글 검색
+
 
 ### 5. 신고
 
 ### 6. 마이페이지
 
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
+
 ### 7. 회원탈퇴
 
-## 소스코드 (보안상 전체 Repo는 공개되지 않습니다)
+
+## 실제 Repo 소스코드 목록
+
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/87888411/182522486-000a6544-20a9-4960-ba17-f846d75a793e.png">
 <img width="259" alt="image" src="https://user-images.githubusercontent.com/87888411/182522534-3259d262-55e3-4d87-872d-355e7160c01a.png">
 <img width="168" alt="image" src="https://user-images.githubusercontent.com/87888411/182522582-c7cd0248-7f6d-4d7b-a67e-6b6145431058.png">

@@ -52,11 +52,11 @@
 
 ### 2. 메인화면
 
-<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/183542214-ab2717b5-7a65-4244-8388-62e31be75e3c.png">
 
 ### 3. 게시판 및 게시글 + 댓글
 
-<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542405-4e9f0c4e-180d-478c-b0f3-9e606bf820ee.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/183542405-4e9f0c4e-180d-478c-b0f3-9e606bf820ee.png">
 
 ### 4. 게시글 검색
 
@@ -65,7 +65,7 @@
 
 ### 6. 마이페이지
 
-<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/87888411/183542246-c8489dfa-f425-4428-aa24-9c8b2b8200da.png">
 
 ### 7. 회원탈퇴
 
@@ -88,6 +88,10 @@
 - 개발 OS : Mac Monterey 12.4
 - 테스트 디바이스 : iPhone 13 mini, iPhone 11 Pro, iPhone 7, Xcode Simulator
 
+<div align="center">
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/87888411/183543962-4f70a183-ddda-42ea-8913-5feb5b3b8738.png">
+</div>
+
 ## 프로젝트를 통해 배우거나 느낀 점 
 - Alamofire를 이용한 비동기 HTTP 통신을 구현하는 법을 배웠습니다.
 - Kingfisher를 이용하여 이미지를 로드하고 캐싱하는 법을 배웠습니다.
@@ -104,4 +108,13 @@
 - 정규표현식을 활용하여 닉네임 사용 규칙을 위반하는지 확인하는 법을 배웠습니다.
 - 당겨서 새로고침을 하거나, View를 터치하여 키보드를 내리는 등 사용자의 App 사용 경험을 높이는 법을 배웠습니다.
 - 이외에 Swift의 기본적인 문법을 포함하여 StoryBoard를 구성하는 법 등을 배웠습니다.
+- Figma 또는 Adobe XD 등으로 작성된 디자인 시안을 Zeplin 등을 활용해 실제 App 디자인에 반영하는 법을 배웠습니다.
 
+<div align="center">
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/87888411/183543230-05c6f149-1fd3-406a-a043-4c0c98face52.png">
+< Figma로 작성된 디자인 시안파일 >
+   
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/87888411/183543543-1c10ecb7-991f-496e-a9f0-da18c7f5ac8a.png">
+< Zeplin으로 추출한 디자인 시안 >
+   
+</div>
